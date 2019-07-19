@@ -2,7 +2,7 @@
   "name": "monster_rolodox",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://itssuresh.github.io/monster_rolodox/",
+  "homepage":"https://itssuresh.github.io/monster_rolodox",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
